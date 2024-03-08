@@ -50,7 +50,7 @@
       <br />
 
 
-  [![Waldirjuniordev](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldirjuniordev)](https://github.com/anuraghazra/github-readme-stats)
+    [![Waldirjuniordev](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldirjuniordev)](https://github.com/anuraghazra/github-readme-stats)
       
   
 
